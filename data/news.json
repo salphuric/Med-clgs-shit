@@ -1,0 +1,71 @@
+{
+  "coverageNote": "News items are independent media reports. They are displayed separately from official complaint records and should not be treated as proof of every allegation reported.",
+  "items": [
+    {
+      "id": "news-kota-2021-07-21",
+      "collegeKey": "government medical college kota",
+      "aliases": ["kota medical college"],
+      "title": "Ragging video from Kota Medical College goes viral, probe on",
+      "publisher": "The Times of India",
+      "date": "2021-07-21",
+      "summary": "A report described a video that appeared to show senior students ragging first-year MBBS students at Kota Medical College. The college anti-ragging committee was directed to investigate.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/ragging-video-from-kota-med-college-goes-viral-probe-on/articleshow/84600792.cms",
+      "status": "Reported; investigation/action reported by the source"
+    },
+    {
+      "id": "news-kota-2021-07-22",
+      "collegeKey": "government medical college kota",
+      "aliases": ["kota medical college"],
+      "title": "Kota Medical College suspends three students after ragging investigation",
+      "publisher": "Navbharat Times",
+      "date": "2021-07-22",
+      "summary": "The report said the college's anti-ragging committee completed its investigation and three students were suspended following the viral-video incident.",
+      "url": "https://navbharattimes.indiatimes.com/state/rajasthan/kota/3-mbbs-students-suspended-for-ragging-juniors-in-kota-medical-college/articleshow/84621077.cms",
+      "status": "Reported disciplinary action"
+    },
+    {
+      "id": "news-bhavnagar-2026-06-20",
+      "collegeKey": "government medical college bhavnagar",
+      "aliases": ["bhavnagar medical college"],
+      "title": "Six students suspended over alleged ragging at Bhavnagar medical college",
+      "publisher": "The Indian Express",
+      "date": "2026-06-20",
+      "summary": "The report said six students from Government Medical College, Bhavnagar were suspended in connection with allegations of ragging.",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/6-students-at-gujarats-bhavnagar-medical-college-suspended-for-ragging-juniors-10748588/",
+      "status": "Reported suspension; allegations described as such"
+    },
+    {
+      "id": "news-surat-2026-08-14",
+      "collegeKey": "government medical college surat",
+      "aliases": ["gmc surat", "medical college surat"],
+      "title": "GMC confirms ragging, refuses to link it to doctor's death",
+      "publisher": "The Times of India",
+      "date": "2026-08-14",
+      "summary": "The report said the Government Medical College, Surat anti-ragging inquiry found that first-year resident doctors had been subjected to ragging, while the inquiry did not establish a direct link between the ragging and a resident doctor's death.",
+      "url": "https://timesofindia.indiatimes.com/city/surat/gmc-confirms-ragging-refuses-to-link-it-to-doctors-death/amp_articleshow/133222299.cms",
+      "status": "Institutional inquiry reported; causation distinction preserved"
+    },
+    {
+      "id": "news-surat-2026-08-15",
+      "collegeKey": "government medical college surat",
+      "aliases": ["gmc surat", "medical college surat"],
+      "title": "Two doctors appear before police in Surat medical college ragging case",
+      "publisher": "The Indian Express",
+      "date": "2026-08-15",
+      "summary": "The report said two of four resident doctors accused in connection with alleged ragging appeared before police following notices issued after the death of a postgraduate student.",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/surat-pg-student-suicide-doctors-ragging-police-10834238/",
+      "status": "Police investigation reported; allegations not presented as convictions"
+    },
+    {
+      "id": "news-osmania-2026-06-17",
+      "collegeKey": "osmania medical college",
+      "aliases": ["osmania medical college koti"],
+      "title": "Criminal cases filed against students over alleged ragging incident at Osmania Medical College",
+      "publisher": "The New Indian Express",
+      "date": "2026-06-17",
+      "summary": "The report said police registered cases against senior students following allegations involving first-year BDS students accommodated in the Osmania Medical College hostel, while the college also took disciplinary action.",
+      "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Jun/17/criminal-cases-filed-against-12-osmania-medical-college-students-over-alleged-ragging-incident",
+      "status": "Police case and disciplinary action reported"
+    }
+  ]
+}
